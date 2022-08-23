@@ -1,4 +1,4 @@
-# java_projects
+# Java Projects
 
 ### This repository is created for several projects that I found interesting that can sharpen my coding, while managing different principles like object oriented, agile, scrum, etc.
 
